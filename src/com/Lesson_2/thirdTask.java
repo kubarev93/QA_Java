@@ -8,13 +8,11 @@ class   thirdTask {
         System.out.println("Введите число");
         int a = scan.nextInt();
 
-        if(a>0){
+        if(a>0) {
             a++;
-        }
-        else if(a<0){
-             a -=2;
-        }
-        else if(a == 0){
+        } else if(a<0) {
+            a -=2;
+        } else if(a == 0) {
             a=10;
         }
         System.out.println(a);
