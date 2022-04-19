@@ -1,5 +1,5 @@
 package com.Lesson_2;
-class   sevenTask {
+class   tenthTask {
     public static void  main (String[] args){
         double a = 10;
         double c = 0;
