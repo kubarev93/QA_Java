@@ -1,5 +1,5 @@
 package com.Lesson_2;
-class   ten {
+class   eleven {
     public static void  main (String[] args){
         int a = 1;
         int b = 0;
