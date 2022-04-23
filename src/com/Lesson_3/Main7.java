@@ -2,7 +2,7 @@ package com.Lesson_3;
 
 import java.util.Random;
 
-public class Main6 {
+public class Main7 {
     public static void main(String[] args) {
         Random Number = new Random();
         int dlinnaMassiva = 12;
