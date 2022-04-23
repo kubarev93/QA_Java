@@ -9,7 +9,7 @@ public class Main7 {
         int[] array = new int[dlinnaMassiva];
         int x = 0;
         for (int i = 0; i < array.length; i++) {
-            int random = Number.nextInt(16);
+            int random = Number.nextInt(15);
             array[x] = random;
             System.out.print(array[x] + " ");
             x++;
